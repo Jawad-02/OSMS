@@ -285,7 +285,7 @@ and ensures first-time system stability.
 # 🗄 Database Schema & ER Diagram
 
 
-![ER Diagram](docs/er/diagram.png)
+![ER Diagram](docs/er/diagram.jpeg)
 
 
 “The Products table also includes an ImagePath column used to store the relative path of the product image. This column is omitted in the diagram only for compact display.”
