@@ -1,0 +1,78 @@
+#################
+# Build Folders #
+#################
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Aa]rtifacts/
+
+###################
+# VS User Files   #
+###################
+.vs/
+*.user
+*.suo
+*.userosscache
+
+###################
+# Logs / Cache    #
+###################
+*.log
+*.cache
+*.pdb
+*.tmp
+*.tlog
+
+###################
+# NuGet           #
+###################
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+###################
+# Publish Output  #
+###################
+app.publish/
+PublishProfiles/
+
+###################
+# System Files    #
+###################
+Thumbs.db
+desktop.ini
+
+###################
+# Databases       #
+###################
+*.mdf
+*.ldf
+
+###################
+# Rider / JetBrains
+###################
+.idea/
+
+###################
+# SQLite / misc   #
+###################
+*.sqlite
+*.db
+*.bak
+*.backup
+
+###################
+# Installers      #
+###################
+*.msi
+*.exe
+
+###################
+# Temporary       #
+###################
+*.swp
+*.tmp
